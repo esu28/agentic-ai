@@ -1,4 +1,4 @@
-# STCase++: Multi-Modal CCC Inference Pipeline
+# Multi-Modal CCC Inference and Niche Identification Pipeline
 
 <p align="center">
   <img src="docs/logo.png" alt="Project Logo" width="150"/>
