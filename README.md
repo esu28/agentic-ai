@@ -1,11 +1,5 @@
 # Multi-Modal CCC Inference and Niche Identification Pipeline
 
-<p align="center">
-  <img src="docs/logo.png" alt="Project Logo" width="150"/>
-</p>
-
----
-
 ## Workflow
 
 <p align="center">
